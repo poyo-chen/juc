@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 public class Account {
   private int balance = 10000;

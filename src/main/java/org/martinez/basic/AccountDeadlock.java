@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 /**
  * 死鎖的四個條件：

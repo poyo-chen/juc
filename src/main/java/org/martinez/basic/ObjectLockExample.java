@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 public class ObjectLockExample {
   private int cnt = 0;

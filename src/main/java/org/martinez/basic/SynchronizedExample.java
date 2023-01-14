@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 public class SynchronizedExample {
   private int cnt = 0;

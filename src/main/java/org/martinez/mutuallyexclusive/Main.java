@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.mutuallyexclusive;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 import java.util.ArrayList;
 import java.util.List;

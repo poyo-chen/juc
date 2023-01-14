@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 /**
  * 可見性問題 CPU在計算的時候將資料都佔存在各自的Cache Memory中，所以造成不一致的問題

@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.mutuallyexclusive;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

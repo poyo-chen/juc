@@ -1,4 +1,4 @@
-package org.martinez;
+package org.martinez.basic;
 
 /**
  * 每個Account ID值，讓在匯款時比對ID值，ID高的先鎖住在鎖住ID低的 Account，這個方法可以初步的打破循環等待的問題，但是若是Account一多還是有可能會Deadlock

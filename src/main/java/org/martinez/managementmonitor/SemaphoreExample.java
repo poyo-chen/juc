@@ -1,2 +1,5 @@
-package org.martinez.managementmonitor;public class SemaphoreExample {
+package org.martinez.managementmonitor;
+
+public class SemaphoreExample {
+
 }
